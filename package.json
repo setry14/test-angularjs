@@ -1,7 +1,7 @@
 {
   "author": "Sumeet Sethi",
   "license": "MIT",
-  "name": "bpui",
+  "name": "test-angularjs",
   "version": "1.0.0",
   "description": "Unit Testing on an AngularJS app",
   "main": "index.js",
